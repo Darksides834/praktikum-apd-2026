@@ -1,1 +1,1 @@
-# paktikum-apd-2026
+# praktikum-apd-2026
