@@ -1,4 +1,4 @@
-# Program Kalkulasi Berat Bagasi Kabin Maskapai
+ # Program Kalkulasi Berat Bagasi Kabin Maskapai
 # Posttest 2 - Algoritma Pemrograman Dasar 
 #==============================================
 
@@ -34,7 +34,7 @@ tengah = list_bagasi[2:5]
 # konversi total berat akhir ke satuan gram
 total_gram = total_berat_akhir*1000
 
-# 6. Tampilkan seluruh nilai variabel
+# 6. Tampilkan seluruh nilai variabelkg
 print("===== DATA BAGASI PENUMPANG =====")
 print("bagasi 1     :", bagasi_1, "kg")
 print("bagasi 2     :", bagasi_2, "kg")
@@ -47,7 +47,7 @@ print()
 print("===== HASIL PERHITUNGAN =====")
 print("total berat       :", total_berat, "kg")
 print("kompensasi (5%)   :", kompensasi, "kg")
-print("total berat akhir :", total_berat_akhir, "kg")
+print("total berat akhir :", total_berat_akhir, "")
 print("rata-rata         :", rata_rata, "kg")
 print("NIM               :", nim)
 print("bolean            :", bolean)
