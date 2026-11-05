@@ -1,5 +1,5 @@
 # =====================================================================
-# Library tambahan: prettytable (tabel), colorama (warna) & pwinput (password bertanda *)
+# Library tambahan: colorama (warna) & pwinput (password bertanda *)
 # =====================================================================
 import os
 
